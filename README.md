@@ -1,32 +1,35 @@
-<!--<p align="center">
-    <img width="200" src="https://github.com/Naolt/Naolt/blob/main/Naolt.png">
-</p>-->
-<br><br>
-<h1 align='center'>Hello, I'm Naol Tamrat 👋</h1>
-<br><br>
-I'm a competitive programmer and full-stack developer based in Ethiopia, with expertise in React and Node.js. Here are a few things you might want to know about me:
-<div>
+<h1 align='center'>Hey, I'm Naol Tamrat</h1>
 
-<h2> About Me </h2>
+<p align='center'>
+  <b>Full-Stack Developer & AI Engineer</b><br>
+  Building production systems from Next.js frontends to LLM-powered pipelines
+</p>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<p align='center'>
+  <a href="https://www.linkedin.com/in/naolt16">LinkedIn</a> •
+  <a href="mailto:naol.delesa.official@gmail.com">Email</a> •
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">LeetCode</a>
+</p>
 
-- 🔭 I’m currently working on LetsTalk
-  
-- 🌱 I’m currently learning React Native
-  
-- 👯 I’m looking to collaborate on projects
-  
-- 💬 Ask me about React, Node, JavaScript
+---
 
-- 📧 How to reach me <a href='naoltamrat36@gmail.com'>naoltamrat36@gmail.com</a>
-  
-<br><br>
-<h2>📊 My Github Stats :</h2><br><br>
+### About Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Naolt&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naolt&theme=radical&hide_border=true"/><br><br>
-<br><br>
-//<h2>💡 My Languages :</h2>
-//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naolt&langs_count_private=true&theme=radical&card_width=445)<br><br>
+- Full-Stack Developer & AI Engineer based in Addis Ababa, Ethiopia
+- I build web apps with Next.js/React and backend services with Node.js, FastAPI, and Django
+- Currently deep into AI agents, LangChain/LangGraph, and RAG pipelines
+- A2SV fellow — 600+ problems solved on LeetCode
+- Open to full-stack, backend, and AI engineering roles
 
+
+### Tech Stack
+
+**Languages:** Python, TypeScript, JavaScript, SQL
+
+**Frontend:** Next.js, React, React Native, Tailwind CSS, Shadcn UI
+
+**Backend:** Node.js, Express.js, FastAPI, Django Ninja, Celery
+
+**AI/ML:** LangChain, LangGraph, MCP, RAG, Pinecone, Google Gemini
+
+**Tools:** Docker, Git, PostgreSQL, Redis, GCP, Azure, Firebase, Playwright
