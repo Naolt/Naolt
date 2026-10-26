@@ -1,35 +1,19 @@
-<h1 align='center'>Hey, I'm Naol Tamrat</h1>
+## Hi, I'm Naol Tamrat
 
-<p align='center'>
-  <b>Full-Stack Developer & AI Engineer</b><br>
-  Building production systems from Next.js frontends to LLM-powered pipelines
-</p>
+Full-Stack AI Engineer in Addis Ababa, Ethiopia (UTC+3). I build AI agents and production web apps, from LangGraph pipelines to the Next.js products people use every day.
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/naolt16">LinkedIn</a> •
-  <a href="mailto:naol.delesa.official@gmail.com">Email</a> •
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">LeetCode</a>
-</p>
+[Portfolio](https://naolt.vercel.app) · [LinkedIn](https://www.linkedin.com/in/naolt16) · [Email](mailto:naol.delesa.official@gmail.com)
 
----
+### Featured projects
 
-### About Me
+- **[IMS](https://ims.aurorasolve.com)**: multi-tenant inventory and sales SaaS used by real shops, with a trilingual AI assistant.
+- **[Divvy](https://divvy.aurorasolve.com)**: expense-sharing app for shared households, in daily use.
+- **[Unsubscribe Agent](https://github.com/Naolt/Unsubscribe-Agent)**: AI agent that reads forwarded emails and unsubscribes through browser automation.
 
-- Full-Stack Developer & AI Engineer based in Addis Ababa, Ethiopia
-- I build web apps with Next.js/React and backend services with Node.js, FastAPI, and Django
-- Currently deep into AI agents, LangChain/LangGraph, and RAG pipelines
-- A2SV fellow — 600+ problems solved on LeetCode
-- Open to full-stack, backend, and AI engineering roles
+Freelance: [awcoffeeexport.com](https://www.awcoffeeexport.com) · [kebronchurch.org](https://www.kebronchurch.org)
 
+### Core stack
 
-### Tech Stack
+TypeScript · Python · Next.js · React · FastAPI · LangGraph · MCP · RAG · PostgreSQL · Docker · Kubernetes
 
-**Languages:** Python, TypeScript, JavaScript, SQL
-
-**Frontend:** Next.js, React, React Native, Tailwind CSS, Shadcn UI
-
-**Backend:** Node.js, Express.js, FastAPI, Django Ninja, Celery
-
-**AI/ML:** LangChain, LangGraph, MCP, RAG, Pinecone, Google Gemini
-
-**Tools:** Docker, Git, PostgreSQL, Redis, GCP, Azure, Firebase, Playwright
+Code for private projects is available on request.
